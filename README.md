@@ -8,5 +8,6 @@ A fictional e-commerce business has been acquired and the acquiring company want
 2. Data Cleaning.
 3. Data Visualisation in Power BI.
 
-
-   
+### Result
+- Based on the analysis, I recommended that Men's Bib Shorts (sizes S and M) and Women's Tights (sizes S and L), should be the products that should have a drastic increase in inventory to maximise profit.
+- 
